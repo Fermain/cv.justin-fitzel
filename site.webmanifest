@@ -1,6 +1,6 @@
 {
-    "name": "Alexa Lazarus | CV",
-    "short_name": "Alexa Lazarus | CV",
+    "name": "Justin Fitzell - CV",
+    "short_name": "Justin Fitzell - CV",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
@@ -8,8 +8,8 @@
             "type": "image/png"
         },
         {
-            "src": "/android-chrome-256x256.png",
-            "sizes": "256x256",
+            "src": "/android-chrome-512x512.png",
+            "sizes": "512x512",
             "type": "image/png"
         }
     ],
